@@ -2,6 +2,7 @@
   "appResults": [
     {"dataID": 1101002001, "courseName":"Algebra I Tag", "assignments":"2", "assignment1":"Linear Functions Worksheet", "assignment2":"IXL S.12 (T5F)", "assignment3":"", "assignment4":"", "assignment1link":"", "assignment2link":"https://www.ixl.com/math/algebra-1/linear-equations-solve-for-y", "assignment3link":"", "assignment4link":""}, 
     {"dataID": 1101002002, "courseName":"US History", "assignments":"3", "assignment1":"Living Constitution Outline", "assignment2":"Chapter 5, Section 4", "assignment3":"Unit 3 Vocab", "assignment4":"", "assignment1link":"https://roundrockisd.schoology.com/assignment/5398461876/info", "assignment2link":"https://roundrockisd.schoology.com/assignment/5404696163/info", "assignment3link":"", "assignment4link":""}, 
-    {"dataID": 1101002003, "courseName":"ELA", "assignments":"0", "assignment1":"", "assignment2":"", "assignment3":"", "assignment4":"", "assignment1link":"", "assignment2link":"", "assignment3link":"", "assignment4link":""}
+    {"dataID": 1101002003, "courseName":"ELA", "assignments":"0", "assignment1":"", "assignment2":"", "assignment3":"", "assignment4":"", "assignment1link":"", "assignment2link":"", "assignment3link":"", "assignment4link":""}, 
+    {"dataID": 1101002004, "courseName":"Science", "assignments":"0", "assignment1":"No assignments, but test tommorow!", "assignment2":"", "assignment3":"", "assignment4":"", "assignment1link":"", "assignment2link":"", "assignment3link":"", "assignment4link":""}
   ]
 }
