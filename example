@@ -1,5 +1,5 @@
 {
   "dataCollected": [
-    {"dataID": 1000000001, "courseName":"Algebra I Tag", "assignments":"2", "assignment1":"Linear Functions Worksheet", "assignment2":"IXL S.12 (T5F)", "assignment3":"no-assignment-filler", "assignment4":"no-assignment-filler", "assignment1link":"no-link-filler", "assignment2link":"https://www.ixl.com/math/algebra-1/linear-equations-solve-for-y", "assignment3link":"no-link-filler", "assignment4link":"no-link-filler"}
+    {"dataID": 1000000001, "courseName":"Algebra I Tag", "assignments":"2"}
   ]
 }
