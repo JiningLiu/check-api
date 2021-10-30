@@ -1,7 +1,5 @@
 {
   "appResults": [
-    {"dataID": 1000000001, "courseName":"Algebra I Tag", "assignments":"2", "assignment1":"Linear Functions Worksheet", "assignment2":"IXL S.12 (T5F)", "assignment3":"", "assignment4":""}, 
-    {"dataID": 1000000002, "courseName":"US History", "assignments":"3", "assignment1":"Living Constitution Outline", "assignment2":"Chapter 5, Section 4", "assignment3":"Unit 3 Vocab", "assignment4":""}, 
-    {"dataID": 1000000003, "courseName":"ELA", "assignments":"1", "assignment1":"Finish Memoir Draft", "assignment2":"", "assignment3":"", "assignment4":""}
+    {"dataID": 1000000001, "courseName":"Algebra I Tag", "assignments":"1", "assignment1":"Parallel & Perpendicular Slopes Practice Sheet", "assignment2":"", "assignment3":"", "assignment4":""}
   ]
 }
